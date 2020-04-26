@@ -1,4 +1,4 @@
-# Essential Minehut Skripts
+# Skript Dump
 List of essential skripts on minehut
 
 # How to use:
